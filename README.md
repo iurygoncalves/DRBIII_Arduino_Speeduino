@@ -27,7 +27,7 @@ Arduino Mega 2560
 
 Módulo conversor SCI TTL (para comunicação com a ECU via SCI Bus)
 
-Módulo CCD Bus (para comunicação com painel e outros módulos)
+Módulo Can CCD Bus (para comunicação com painel e outros módulos)
 
 Cabo USB para programação do Arduino
 
