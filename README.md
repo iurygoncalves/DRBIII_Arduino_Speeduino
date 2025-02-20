@@ -23,7 +23,7 @@ Este projeto tem como objetivo modificar o firmware do Speeduino para Arduino Me
 
 Hardware Necessário:
 
-Arduino Mega 2560
+Arduino Mega 2560 PRO
 
 Módulo conversor SCI TTL (para comunicação com a ECU via SCI Bus)
 
