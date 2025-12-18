@@ -1,0 +1,131 @@
+# Arduino IDE
+*.hex
+*.eep
+*.elf
+*.lst
+*.map
+*.sym
+*.lss
+*.d
+*.o
+
+# Compiled Object files
+*.slo
+*.lo
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lai
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Build directories
+build/
+dist/
+Debug/
+Release/
+.build/
+
+# Arduino IDE
+.arduino/
+__vm/
+.vs/
+
+# Platform IO
+.pioenvs/
+.pio/
+.piolibdeps/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.*.swp
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archives (keep in repository if needed, uncomment to ignore)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Dependencies (uncomment if using package managers)
+# node_modules/
+# vendor/
+
+# Documentation build artifacts (if using docs generators)
+docs/_build/
+site/
+
+# Python (if using any Python tooling)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test artifacts
+test_results/
+coverage/
+*.gcov
+*.gcda
+*.gcno
+
+# Editor artifacts
+*.sublime-project
+*.sublime-workspace

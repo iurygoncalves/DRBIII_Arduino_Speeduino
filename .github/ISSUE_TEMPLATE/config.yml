@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Security Vulnerability / Vulnerabilidade de Segurança
+    url: https://github.com/iurygoncalves/DRBIII_Arduino_Speeduino/security
+    about: Para reportar vulnerabilidades de segurança de forma privada / To report security vulnerabilities privately
+  - name: 💬 Community Discussion / Discussão da Comunidade
+    url: https://github.com/iurygoncalves/DRBIII_Arduino_Speeduino/discussions
+    about: Para discussões gerais e perguntas da comunidade / For general discussions and community questions
+  - name: 📚 Documentation / Documentação
+    url: https://github.com/iurygoncalves/DRBIII_Arduino_Speeduino/tree/main/docs
+    about: Consulte a documentação do projeto / Check project documentation

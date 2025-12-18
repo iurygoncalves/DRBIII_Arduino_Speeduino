@@ -74,17 +74,111 @@ Testes de ajuste do AFR e ignição para validar a otimização do consumo.
 🚀 Implementar novas estratégias de economia de combustível.
 
 
+⚠️ Avisos Importantes
+
+**Segurança do Veículo**: Este projeto interage com sistemas críticos do veículo. Sempre teste em bancada antes de usar em um veículo real.
+
+**Teste Responsável**: Nunca teste funcionalidades desconhecidas enquanto dirige.
+
+**Backup**: Mantenha sempre um backup da configuração original da ECU.
+
+
+📜 Licenciamento e Direitos
+
+### Licença MIT
+
+Este projeto é licenciado sob a **Licença MIT**, proporcionando liberdade de uso, modificação e distribuição, enquanto protege os direitos de todos os contribuidores.
+
+**O que isso significa:**
+- ✅ Você pode usar este software gratuitamente
+- ✅ Você pode modificar o código
+- ✅ Você pode distribuir suas modificações
+- ✅ Você pode usar comercialmente
+- ✅ Todos os contribuidores mantêm direitos autorais sobre suas contribuições
+
+### Proteção aos Contribuidores
+
+Inspirados nos princípios da legislação trabalhista brasileira (CLT), estabelecemos proteções especiais:
+
+🛡️ **Seus Direitos como Contribuidor:**
+- Propriedade intelectual sobre suas contribuições
+- Reconhecimento e atribuição adequados
+- Proteção contra responsabilização
+- Liberdade de participação sem obrigações
+- Ambiente respeitoso e profissional
+
+📋 **Documentação de Governança:**
+- [LICENSE](LICENSE) - Licença completa do projeto e proteções adicionais
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Guia completo de contribuição e direitos
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - Padrões da comunidade
+- [CONTRIBUTORS.md](CONTRIBUTORS.md) - Reconhecimento de contribuidores
+- [SECURITY.md](SECURITY.md) - Política de segurança
+
+### Transparência Total
+
+🔍 **Compromissos do Projeto:**
+1. **Licenciamento Claro**: Licença MIT com termos adicionais de proteção
+2. **Responsabilidade Definida**: O mantenedor principal assume responsabilidade pelo projeto
+3. **Atribuição Garantida**: Todos os contribuidores são devidamente creditados
+4. **Processo Transparente**: Decisões são documentadas e comunicadas
+5. **Proteção Legal**: Contribuidores protegidos de responsabilização civil
+
 🤝 Contribuições
 
-Este projeto está aberto para colaboração! Se quiser contribuir com código, testes ou documentação, faça um fork do repositório e envie um pull request.
+Este projeto está aberto para colaboração! Valorizamos e protegemos os direitos de todos os contribuidores.
+
+### Como Contribuir
+
+1. Leia o [CONTRIBUTING.md](CONTRIBUTING.md) para entender seus direitos
+2. Consulte o [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) para padrões da comunidade
+3. Faça um fork do repositório
+4. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+5. Commit suas mudanças (`git commit -m 'feat: adiciona MinhaFeature'`)
+6. Push para a branch (`git push origin feature/MinhaFeature`)
+7. Abra um Pull Request
+
+**Garantias para Contribuidores:**
+- ✅ Reconhecimento em [CONTRIBUTORS.md](CONTRIBUTORS.md)
+- ✅ Preservação do histórico de contribuições
+- ✅ Direitos autorais mantidos
+- ✅ Proteção contra responsabilização
+- ✅ Ambiente livre de assédio
+
+### Reportando Issues
+
+- 🐛 Bugs: Use o template de bug report
+- 💡 Features: Use o template de feature request
+- 🔒 Segurança: Veja [SECURITY.md](SECURITY.md) para reportes privados
+- ❓ Dúvidas: Abra uma issue com a tag `question`
 
 📞 Contato
 
-Para dúvidas, sugestões ou suporte, entre em contato pelo GitHub ou envie uma mensagem para @iurygoncalves.
+Para dúvidas, sugestões ou suporte:
+- **Issues**: [GitHub Issues](https://github.com/iurygoncalves/DRBIII_Arduino_Speeduino/issues)
+- **Mantenedor**: @iurygoncalves
+- **Contribuições**: Veja [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Segurança**: Veja [SECURITY.md](SECURITY.md)
+
+---
+
+## 📊 Status do Projeto
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.0-green.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+
+---
+
+## 🙏 Agradecimentos
+
+- Comunidade **Speeduino** pelo firmware base
+- Comunidade **Arduino** pelas ferramentas e bibliotecas
+- Todos os **contribuidores** que dedicam tempo ao projeto
+- Usuários que testam e fornecem feedback
+
+---
 
 🚀 Vamos tornar a Dodge Dakota mais eficiente do que nunca! 🔥
 
-
-
-O arquivo README.md foi criado com todas as informações essenciais sobre o projeto DRBIII_Arduino_Speeduino. Se precisar de ajustes ou quiser adicionar mais detalhes, me avise! 🚀🔥
+**Com transparência, segurança e respeito a todos os colaboradores.**
 
