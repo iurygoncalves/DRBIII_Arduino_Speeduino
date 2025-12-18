@@ -43,9 +43,9 @@ We currently provide security support for the following versions:
 #### Como Reportar de Forma Segura:
 
 1. **Contato Privado**:
-   - Envie um e-mail para o mantenedor: @iurygoncalves (via GitHub ou e-mail privado)
-   - Use a opção "Security Advisory" do GitHub (se disponível)
-   - Entre em contato via mensagem direta
+   - Entre em contato com @iurygoncalves via GitHub (mensagem direta ou mencione em issue privada)
+   - Use a opção "Security Advisory" do GitHub (recomendado)
+   - Para questões urgentes, abra uma issue privada de segurança
 
 2. **Informações a Incluir**:
    - Descrição detalhada da vulnerabilidade
@@ -89,9 +89,9 @@ Contato: [seu nome/email]
 #### How to Report Safely:
 
 1. **Private Contact**:
-   - Email the maintainer: @iurygoncalves (via GitHub or private email)
-   - Use GitHub's "Security Advisory" option (if available)
-   - Contact via direct message
+   - Contact @iurygoncalves via GitHub (direct message or mention in private issue)
+   - Use GitHub's "Security Advisory" option (recommended)
+   - For urgent matters, open a private security issue
 
 2. **Information to Include**:
    - Detailed vulnerability description

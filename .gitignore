@@ -71,7 +71,7 @@ __vm/
 ._*
 
 # Windows
-Thumbs.o
+Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/

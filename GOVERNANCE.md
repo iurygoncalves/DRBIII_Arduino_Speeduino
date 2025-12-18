@@ -322,9 +322,8 @@ Relatórios periódicos incluem / Periodic reports include:
 Para questões sobre governança / For governance questions:
 
 - **Issues**: Use tag `governance`
-- **Discussões**: GitHub Discussions
-- **Mantenedor**: @iurygoncalves
-- **E-mail**: [adicionar se disponível / add if available]
+- **Discussões / Discussions**: GitHub Discussions
+- **Mantenedor / Maintainer**: @iurygoncalves
 
 ---
 
